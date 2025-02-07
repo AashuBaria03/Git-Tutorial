@@ -1,1 +1,1 @@
-NextPermutation
+public class SingleNumber{
